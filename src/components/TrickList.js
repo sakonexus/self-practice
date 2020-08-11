@@ -2,7 +2,7 @@ import React from 'react';
 import TrickCard from './TrickCard';
 
 const TrickList = ({ trickList }) => {
-	const renderedTrickList = trickList.tricks.map(
+	const renderedTrickList = trickList.map(
 		({ trick_name, trick_difficulty }) => {
 			return (
 				<TrickCard
