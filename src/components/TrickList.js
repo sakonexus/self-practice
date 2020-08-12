@@ -3,7 +3,13 @@ import TrickCard from './TrickCard';
 
 const TrickList = ({ trickList }) => {
 	const renderedTrickList = trickList.map(
-		({ trick_name, trick_description, trick_difficulty, trick_type }) => {
+		({
+			trick_name,
+			trick_description,
+			trick_difficulty,
+			trick_type,
+			trick_id,
+		}) => {
 			let difficulty = '';
 			let name = '';
 
@@ -43,6 +49,7 @@ const TrickList = ({ trickList }) => {
 					trickDesc={trick_description}
 					trickType={trick_type.join(' ')}
 					trickDiff={difficulty}
+					key={trick_id}
 					bttn='Learn More'
 				/>
 			);
