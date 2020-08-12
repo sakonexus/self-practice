@@ -4,6 +4,7 @@ import NavBar from './NavBar';
 import './App.css';
 import sfsData from '../data/skateboard_tricks.json';
 import SearchBar from './SearchBar';
+import Route from './Route';
 
 const App = () => {
 	const [trickList, setTrickList] = useState(sfsData.tricks);
@@ -24,10 +25,14 @@ const App = () => {
 	return (
 		<div className='container'>
 			<NavBar />
-			<SearchBar onFormSubmit={onTermSubmit} />
-			<div className='card-container' align='center'>
-				<TrickList trickList={filteredTrickList} />
-			</div>
+			<Route path='/tricks'>
+				<SearchBar onFormSubmit={onTermSubmit} />
+				<div className='container'>
+					<div className='row'>
+						<TrickList trickList={filteredTrickList} />
+					</div>
+				</div>
+			</Route>
 		</div>
 	);
 };

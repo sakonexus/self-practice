@@ -4,307 +4,358 @@
 			"trick_id": 0,
 			"trick_name": "ollie",
 			"trick_type": ["flat"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": "Fundamental trick involving jumping with the skateboard. Performed by popping the tail with the back foot and sliding the front foot up towards the nose of the board. The sliding action levels the board while you are airborn."
 		},
 		{
 			"trick_id": 1,
 			"trick_name": "frontside 180",
 			"trick_type": ["spin"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": "Performed by jumping with the board and spinning 180 degrees towards the front of your body. When landing, you should be in the opposite stance than you were in originally."
 		},
 		{
 			"trick_id": 2,
 			"trick_name": "backside 180",
 			"trick_type": ["spin"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": "Performed by jumping with the board and spinning 180 degrees towards the back of your body. When landing, you should be in the opposite stance than you were in originally."
 		},
 		{
 			"trick_id": 3,
-			"trick_name": "shuv it",
+			"trick_name": "backside shuv it",
 			"trick_type": ["flat"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": "Spinning the board 180 degrees towards your back while your body remains in the same stance. At the end of the trick, the tail of the board should be in front and the nose in the back."
 		},
 		{
 			"trick_id": 4,
-			"trick_name": "pop shuv it",
+			"trick_name": "backside pop shuv it",
 			"trick_type": ["flat"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": "Spinning the board 180 degrees towards your back while your body remains in the same stance. At the end of the trick, the tail of the board should be in front and the nose in the back. Exactly like the regular shuv it except the board should \"pop\" into the air."
 		},
 		{
 			"trick_id": 5,
 			"trick_name": "kickflip",
 			"trick_type": ["flip"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": "Using your front foot to flick the back edge of the nose causing the board to flip. Performed similarly to an ollie except your foot should be sliding at an angle up the board."
 		},
 		{
 			"trick_id": 6,
 			"trick_name": "heelflip",
 			"trick_type": ["flip"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": "Using your front foot to flick the front edge of the nose causing the board to flip. Performed similarly to an ollie except your foot should be sliding at an angle up the board."
 		},
 		{
 			"trick_id": 7,
 			"trick_name": "varial kickflip",
 			"trick_type": ["flip"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": "A combination of both the backside pop shuv it and kickflip. The board will perform a 180 degree rotation in the frontside direction while also flipping from flicking your foot towards the back edge of the nose."
 		},
 		{
 			"trick_id": 8,
 			"trick_name": "varial heelflip",
 			"trick_type": ["flip"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": "A combination of both the pop shuv it and kickflip. The board will perform a 180 degree rotation in the frontside direction while also flipping from flicking your foot towards the front edge of the nose."
 		},
 		{
 			"trick_id": 9,
 			"trick_name": "hardflip",
 			"trick_type": ["flip"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": "A combination of both the frontside shuv it and kickflip. The board will perform a 180 degree rotation in the frontside direction while also flipping from flicking your foot towards the back edge of the nose."
 		},
 		{
 			"trick_id": 10,
 			"trick_name": "inward heelflip",
 			"trick_type": ["flip"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": "A combination of both the backside pop shuv it and heelflip. The board will perform a 180 degree rotation in the backside direction while also flipping from flicking your foot towards the front edge of the nose."
 		},
 		{
 			"trick_id": 11,
 			"trick_name": "frontside 180 kickflip",
 			"trick_type": ["flip", "spin"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 12,
 			"trick_name": "backside 180 kickflip",
 			"trick_type": ["flip", "spin"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 13,
 			"trick_name": "frontside 180 heelflip",
 			"trick_type": ["flip", "spin"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 14,
 			"trick_name": "backside 180 heelflip",
 			"trick_type": ["flip", "spin"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 15,
 			"trick_name": "360 pup shuv it",
 			"trick_type": ["flat"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 16,
 			"trick_name": "frontside big spin",
 			"trick_type": ["spin"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 17,
 			"trick_name": "backside big spin",
 			"trick_type": ["flat"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 18,
 			"trick_name": "360 flip",
 			"trick_type": ["flip"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 19,
 			"trick_name": "impossible",
 			"trick_type": ["flip"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 20,
 			"trick_name": "laser flip",
 			"trick_type": ["flip"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 21,
 			"trick_name": "casper flip",
 			"trick_type": ["flip"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 22,
 			"trick_name": "50-50",
 			"trick_type": ["grind"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 23,
 			"trick_name": "5-0",
 			"trick_type": ["grind"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 24,
 			"trick_name": "boardslide",
 			"trick_type": ["grind"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 25,
 			"trick_name": "feeble",
 			"trick_type": ["grind"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 26,
 			"trick_name": "smith",
 			"trick_type": ["grind"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 27,
 			"trick_name": "nosegrind",
 			"trick_type": ["grind"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 28,
 			"trick_name": "noseslide",
 			"trick_type": ["grind"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 29,
 			"trick_name": "tailslide",
 			"trick_type": ["grind"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 30,
 			"trick_name": "crooked",
 			"trick_type": ["grind"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 31,
 			"trick_name": "overcrook",
 			"trick_type": ["grind"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 32,
 			"trick_name": "bluntslide",
 			"trick_type": ["grind"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 33,
 			"trick_name": "noseblunt slide",
 			"trick_type": ["grind"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 34,
 			"trick_name": "lipslide",
 			"trick_type": ["grind"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 35,
 			"trick_name": "darkslide",
 			"trick_type": ["grind"],
-			"trick_difficulty": "h"
+			"trick_difficulty": "p",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 36,
 			"trick_name": "nocomply",
 			"trick_type": ["flat"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 37,
 			"trick_name": "boneless",
 			"trick_type": ["flat", "ramp"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 38,
 			"trick_name": "caveman",
 			"trick_type": ["flat", "ramp"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 39,
 			"trick_name": "rock to fakie",
 			"trick_type": ["ramp"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 40,
 			"trick_name": "rock and roll",
 			"trick_type": ["ramp"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 41,
 			"trick_name": "nose stall",
 			"trick_type": ["ramp"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 42,
 			"trick_name": "tail stall",
 			"trick_type": ["ramp"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 43,
 			"trick_name": "axle stall",
 			"trick_type": ["ramp"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 44,
 			"trick_name": "disaster",
 			"trick_type": ["ramp"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 45,
 			"trick_name": "manual",
 			"trick_type": ["flat"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 46,
 			"trick_name": "nose manual",
 			"trick_type": ["flat"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 47,
 			"trick_name": "strawberry milkshake",
 			"trick_type": ["flat"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 48,
 			"trick_name": "nollie",
 			"trick_type": ["flat"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 49,
 			"trick_name": "half-cab",
 			"trick_type": ["flat"],
-			"trick_difficulty": "e"
+			"trick_difficulty": "n",
+			"trick_description": ""
 		},
 		{
 			"trick_id": 50,
 			"trick_name": "full cab",
 			"trick_type": ["flat"],
-			"trick_difficulty": "i"
+			"trick_difficulty": "i",
+			"trick_description": ""
 		}
 	]
 }

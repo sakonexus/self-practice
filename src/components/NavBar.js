@@ -1,11 +1,12 @@
 import React from 'react';
+import Link from './Link';
 
 const NavBar = () => {
 	return (
 		<nav className='navbar navbar-expand-lg navbar-dark bg-primary'>
-			<a className='navbar-brand' href='#'>
+			<Link className='navbar-brand' href='/'>
 				Skate-From-Scratch
-			</a>
+			</Link>
 			<button
 				className='navbar-toggler'
 				type='button'
@@ -21,24 +22,24 @@ const NavBar = () => {
 			<div className='collapse navbar-collapse' id='navbarColor01'>
 				<ul className='navbar-nav mr-auto'>
 					<li className='nav-item active'>
-						<a className='nav-link' href='#'>
+						<Link className='nav-link' href='/'>
 							Home <span className='sr-only'>(current)</span>
-						</a>
+						</Link>
 					</li>
 					<li className='nav-item'>
-						<a className='nav-link' href='#'>
+						<Link className='nav-link' href='/tricks'>
 							Tricks
-						</a>
+						</Link>
 					</li>
 					<li className='nav-item'>
-						<a className='nav-link' href='#'>
+						<Link className='nav-link' href='/discover'>
 							Discover
-						</a>
+						</Link>
 					</li>
 					<li className='nav-item'>
-						<a className='nav-link' href='#'>
+						<Link className='nav-link' href='/about'>
 							About
-						</a>
+						</Link>
 					</li>
 				</ul>
 			</div>
