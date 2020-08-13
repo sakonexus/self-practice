@@ -1,0 +1,3 @@
+{
+	"mongoURI": "mongodb+srv://sako:donotenter@cluster0.b3iei.gcp.mongodb.net/skate-from-scratch?retryWrites=true&w=majority"
+}
