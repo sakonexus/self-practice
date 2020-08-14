@@ -5,6 +5,7 @@ import './App.css';
 import sfsData from '../data/skateboard_tricks.json';
 import SearchBar from './SearchBar';
 import Route from './Route';
+import About from './About';
 
 const App = () => {
 	const [trickList, setTrickList] = useState(sfsData.tricks);
@@ -32,6 +33,9 @@ const App = () => {
 						<TrickList trickList={filteredTrickList} />
 					</div>
 				</div>
+			</Route>
+			<Route path='/about'>
+				<About />
 			</Route>
 		</div>
 	);
